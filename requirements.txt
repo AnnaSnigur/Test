@@ -1,6 +1,6 @@
 amqp==2.5.2
 billiard==3.6.3.0
-Django==2.2.10
+Django==2.2.22
 django-crispy-forms==1.9.0
 django-timezone-field==3.1
 entrypoints==0.3
